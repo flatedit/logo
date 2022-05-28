@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Barlow-Bold
+font link: https://fonts.google.com/specimen/Barlow
+font author: Jeremy Tribby
+font author site: https://tribby.com/
+
+
+icon designer: Adrien Coquet
+icon designer link: /coquet_adrien
+        
+
+fontColor: {"gradient-0":"#9FC35D","gradient-1":"#C8C8C8"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#9FC35D","gradient-1":"#C8C8C8"}
+
+      
